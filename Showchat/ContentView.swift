@@ -67,7 +67,7 @@ struct ContentView: View {
                                         // A custom view showing user reactions
                                         UserReactionsView()
                                             .padding(.top, -20)
-                                            .offset(x: 45, y: 0)
+                                            .offset(x: 45, y: 0)//
                                         }
                                     }
                                 }
